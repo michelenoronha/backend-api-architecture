@@ -1,3 +1,5 @@
+This repository illustrates backend API architecture principles supporting scalable and maintainable enterprise systems.
+
 Learning how to Create an API RestFull - BackEnd
 General Architecture of the Project: 
 
